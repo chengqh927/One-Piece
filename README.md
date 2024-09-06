@@ -1,6 +1,6 @@
-# Cheng Chrome Plugin
+# One Piece Chrome Plugin
 
-一个简单易用的Chrome插件，包含大部分常见的编码。
+一个简单的Chrome插件，包含大部分常见的编码。
 
 ## 主要包含的编码
 - Base 64
