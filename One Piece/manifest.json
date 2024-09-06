@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Cheng",
+  "version": "1.0",
+  "author": "cheng",
+  "description": "一款简单的编码、解码工具",
+  "icons": {
+    "128": "theme/icon/logo.png"
+  },
+
+  "action": {
+    "default_title": "Cheng",
+    "default_popup": "theme/index.html"
+  },
+  "permissions": ["downloads"]
+
+}
